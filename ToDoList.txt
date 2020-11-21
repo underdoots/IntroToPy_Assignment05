@@ -1,0 +1,4 @@
+dishes,high
+groceries,high
+learn python,high
+bike,high
